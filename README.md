@@ -8,4 +8,6 @@ The Python scripts present in this repository are used in different projects men
 
 [Timer Verification IP](https://github.com/merledu/common_peripheral_vips)
 
+[SPI Verification IP](https://github.com/AuringzaibSabir/common_peripheral_vips/tree/main/verif/vips/spi)
+
 This repository contain more than `500` lines of Py-code excluding headers and irrelevent lines of code
